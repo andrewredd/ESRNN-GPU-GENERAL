@@ -29,7 +29,7 @@ Either use an IDE such as PyCharm or make sure to add the es\_rnn folder to your
 
 ## Authors
 
-* **Andrew Redd** - [aredd-cmu](https://github.com/aredd-cmu)
+* **Andrew Redd** - [andrewwredd]
 * **Kaung Khin** - [damitkwr](https://github.com/damitkwr)
 * **Aldo Marini** - [catapulta](https://github.com/catapulta)
 
